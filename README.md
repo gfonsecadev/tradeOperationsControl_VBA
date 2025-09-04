@@ -7,7 +7,7 @@
 - Acompanhar  prejuizo acumulado para abatimento de IR;
 - Gerar resumo mensal detalhado com foco no resultado liquido e imposto a pagar;
 
-# ScreenShoots do projeto :
+# Screenshots do projeto :
 ## Salvando operações: 
 <img width="1900" height="756" alt="image" src="https://github.com/user-attachments/assets/d28cb091-1439-469b-b97d-b8f2103a5f63" />
 
